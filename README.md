@@ -1,4 +1,5 @@
 ## Hey!   <img src="https://github.com/prgarg007/prgarg007/blob/master/Hi.gif" width="30px">
+[![Visits Badge](https://badges.pufler.dev/visits/prgarg007/prgarg007)]
 
 I am Pranav Garg I Have interest in Artificial Intelligence, Machine Learning, Django & Web Development. I love to combine passion with software development skills to build new products.
 I am presently pursuing Btech in *Computer Engineering(CE)* From Chitkara University. 
